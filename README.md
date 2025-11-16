@@ -1,2 +1,2 @@
 Use Icarus Verilog and GTKWave
-![NOT Gate](NOT_si.png)
+![NOT Gate](NOR_simulation.png)
